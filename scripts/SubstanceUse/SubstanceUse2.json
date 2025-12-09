@@ -1,0 +1,162 @@
+[
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "Hello, welcome back. It's good to see you again. Please, have a seat. How have you been since our last meeting?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "Hi. Uh, okay, I guess. A lot on my mind. I did go to see that doctor you referred me to, like we talked about."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "Great. That was a significant step. I'd really like to hear about that experience. What was your takeaway from the consultation?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "It was... intense, but also a relief. The doctor was very straightforward. She confirmed what you said—that stopping on my own right now isn't safe because of the withdrawal risk. She outlined two options: an outpatient detox with daily check-ins and medication, or a 5-day inpatient program at a clinic."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "Okay. You mentioned it was a relief as well. Can you say more about that?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "I guess it just made it real. This is a medical problem, not just me being weak. Having a clear path, even if it's scary, is better than the confusion I've been in. She talked about using medication to make the withdrawal way more manageable."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "That's a profound and important insight—recognizing this as a health condition. How are you feeling about the two options? What thoughts have you been wrestling with?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "The inpatient one makes the most sense, she said, given my pattern. But I'm still stuck on my job. I talked to my boss... in a vague way. Said I might need a short medical leave. He wasn't thrilled, but he said to get him paperwork from a doctor. So that door might be open."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "You took another big step by having that initial conversation with your boss. That takes courage. So, the practical barrier might be more manageable than you first thought. Beyond the job, what else comes up when you imagine doing the inpatient program?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "Mostly... what people will think. My partner knows and is supportive. But my family, my friends... they just think I like to party. The idea of 'rehab' is embarrassing. And I'm afraid of what it will be like, just stuck in there with my own thoughts."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "Those are such valid feelings. The stigma is real, and it's a heavy burden. And the fear of being alone with your thoughts is something I hear often. In that environment, though, you wouldn't be alone—you'd have medical staff and peers going through similar things. And your thoughts are exactly what we start to work on in therapy. Last time, you said you wanted to learn to deal with feelings like stress and boredom without substances. This is where that work truly begins."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "Yeah. I keep coming back to that. The doctor also brought up **Medication-Assisted Treatment** again for after detox. She mentioned a pill called naltrexone that can help with cravings. It feels like having a safety net."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "That's an excellent way to see it—a safety net. It reduces the biological urge, which gives the skills we work on here a better chance to take root. It seems like you're moving from 'Is this a problem?' to 'How do I solve this problem?' That's a huge shift."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "I think I am. After our last talk and the doctor, it's like the fog cleared a little. I'm tired of the cycle. I'm tired of letting people down."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "You mentioned letting people down. That's a powerful motivator. But I'd like to gently pivot and ask: What about **you**? What would getting stable and into recovery do *for you*, personally? Not for your partner or your boss, but for the person sitting here with me?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "(Pauses) For me? I... I used to enjoy things. I liked reading, going for hikes. Now I just think about when I can drink next. I don't remember the last time I felt genuinely calm or happy without it. I want to feel real again. I want to not be sick and anxious every morning."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "Thank you for sharing that. \"I want to feel real again.\" That is a core, personal motivation. That's the 'why' we can anchor to when things get tough. Can I write that down? That's important."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "Yeah, okay. It's true."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "So, let's look at the map. The next step is the medical detox, likely inpatient. Then, you'd transition back here for ongoing **therapy**, and you'd have the option of starting MAT. We'd also begin to explore **support groups**. How does the path forward feel as we look at it today?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "It feels... possible. Still scary, but possible. I think I need to do the inpatient detox. I know myself. If I try the outpatient one, I'll find an excuse to skip an appointment or just not take the meds. I need to be somewhere where I can't sabotage it."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "That is incredible self-awareness and honesty. Recognizing what you need for success is a massive strength. It sounds like you've made a decision."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "I think I have. I'll call the doctor back tomorrow to set up the inpatient admission. My partner said they'll help manage things at home."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "I'm really glad to hear you have that support. So, for our work together: My recommendation is that we schedule our next session for shortly after you complete the detox program. That session will be your first official step into the counseling phase. We'll start building those coping skills you talked about. What would you like that first focus to be? Stress? Boredom? Something else?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "Stress, definitely. It's my biggest trigger. The feeling that everything is too much and I need to shut it down."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "Stress it is. We can use a **Cognitive Behavioral Therapy** approach to understand the thoughts that amplify your stress and develop new ways to respond. Before you go into the program, is there anything you're worried about in terms of our ongoing work?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "Just... that I'll do the detox and then come out and nothing will have changed in my life, and I'll just fall back into it."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "That is the central challenge of recovery, and your fear is spot-on. Detox is not a cure; it's a necessary reset. That's precisely why the therapy, the possible medication, and the support groups are the essential next chapters. They are the tools to change your relationship with those old patterns and your environment. We will work on a **relapse prevention plan**—a concrete strategy for dealing with triggers and cravings when you're back home."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "A plan. I like the sound of that. One step at a time, right? Step one is getting through the detox."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "Exactly. One step at a time. And you're taking the most crucial ones right now. I have a lot of hope for you. You've shown remarkable clarity and resolve in just two sessions. Do you have any other questions before we wrap up today?"
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "No, I think that's it. I'll call the doctor, get the paperwork for my job, and go do this. I'll see you after."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "therapist",
+    "text": "I'll be here. And please know, the clinic will have staff you can talk to if you have a tough moment. You're not alone in this. I'm looking forward to our next session and hearing about your progress. Take care of yourself, and remember your 'why'—to feel real again."
+  },
+  {
+    "conversation_id": "substanceUse2",
+    "speaker": "client",
+    "text": "Thank you. I will. See you soon."
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Welcome, Alex. Thanks for coming in today. To help us get started, could you share a little about what’s been on your mind lately?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Sure… I’ve been feeling really overwhelmed. My mind just won’t stop—what if I mess up at work, what if my friends think I’m boring. I even lie awake at night thinking about things that could go wrong. It’s exhausting."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "That sounds incredibly draining. Would it be okay if we talked a bit more about when these worries tend to spike? For example, are there certain times or situations when the anxiety feels strongest?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Definitely. Work is a big one—meetings, deadlines. And honestly, even making weekend plans with friends… I get this knot in my stomach just thinking about it. Sometimes I cancel."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "That’s really helpful, thank you. It’s very common for anxiety to show up around performance and social situations. And what you described—the racing thoughts, the physical tension, the avoidance—these are all part of your body’s alarm system, the fight-or-flight response, kicking in even when there’s no real danger."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "An alarm system… that actually makes sense. It feels like a false alarm, but it’s so real in the moment."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Exactly. The good news is we can work on recalibrating that alarm. One of the most effective approaches is called Cognitive Behavioral Therapy, or CBT. It helps us understand the link between thoughts, feelings, and behaviors. For example, the thought \"I’ll mess up\" can trigger that anxious feeling, which might lead to canceling plans. Would you be open to trying a small exercise to show how this works?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Yeah, I’d like that. I need something I can actually do when I start to spiral."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Perfect. Let’s try a simple grounding technique. It’s called the 5-4-3-2-1 method. It helps bring your focus to the present moment by using your senses. I’ll guide you through it. Ready?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Okay, I’m ready."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Great. First, take a gentle breath in and out. Now, look around and name five things you can see. It can be anything in the room."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Okay… I see the lamp, the books on your shelf, the blue chair, the window, and my hands."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Good. Now, four things you can physically feel. The texture of your sleeves, the chair beneath you…"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "I feel the soft fabric of my hoodie, the cool air from the vent, the smooth leather of the chair, and my glasses on my nose."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Excellent. Now, three things you can hear."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "The hum of the air conditioner, the faint sound of traffic outside, and my own breathing."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Two things you can smell."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Uh… the clean scent of the room, maybe like linen, and the faint smell of my coffee from earlier."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Finally, one thing you can taste."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Just the mint from my toothpaste, I guess."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Wonderful. Take one more breath. How do you feel now compared to when we started the exercise?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "A bit… calmer? My mind isn’t racing as fast. It felt weird at first, but it did pull me out of my head."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "That’s the goal—to anchor you in the here and now when worries pull you into the 'what-ifs.' This is a core skill in mindfulness. Would it feel manageable to practice this once a day this week, maybe when you notice that first knot in your stomach?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Yeah, I think I could do that. Once a day seems achievable."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "That’s a great start. To make it a concrete goal, let’s phrase it like this: 'I will practice the 5-4-3-2-1 grounding technique for one full cycle when I feel a worry wave starting.' Does that sound specific and doable?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Yes, that’s clear. I can do that."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "Excellent. Now, these tools work best when supported by a healthy foundation. I often talk with clients about lifestyle factors that can turn the volume up or down on anxiety. For example, have you noticed how caffeine or a poor night’s sleep affects your worry levels?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Oh, absolutely. If I have coffee after 3 PM, I’m a mess. And when I don’t sleep well, everything feels ten times harder the next day."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "That’s a really important self-observation. Sleep, diet, and even gentle exercise like walking are like the maintenance for your alarm system. They won’t eliminate anxiety, but they help it not get so loud so quickly."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "That makes sense. It’s not about a magic fix, but more like… building better habits so I’m more resilient."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "You’ve put that perfectly. Our work together will be about building that toolkit. We’ll explore thoughts through CBT, gently face fears with gradual exposure, and build coping skills like the one we practiced today. How does that plan sound to you?"
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "It sounds… hopeful. And structured. I’ve felt so out of control, so having a plan and one small thing to practice feels like a first step."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "I’m so glad to hear that. Taking that first step is often the hardest part. Remember, this is a collaboration. We’ll go at your pace and adapt as we go. For now, you have your one small, achievable goal: practice grounding once a day. We can build from there."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "client",
+    "text": "Thank you. I actually feel a bit lighter, just having talked it through and having something concrete to try."
+  },
+  {
+    "conversation_id": "anxiety1",
+    "speaker": "therapist",
+    "text": "You’re very welcome, Alex. You did great work today. I’ll see you next week, and we can talk about how the practice went and what you noticed. Take good care of yourself until then."
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "Hi, I'm glad you're here. Can you tell me what brought you in today?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "I've been having a lot of trouble controlling my anger lately. It's affecting my work and relationships."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "I understand. Let's start by talking about a recent situation where you felt angry. Can you describe what happened?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "Last week, my coworker made a mistake and blamed me for it. I lost my temper and shouted at him."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "That sounds tough. What were you feeling right before you got angry?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "I felt disrespected and unfairly blamed. My heart was racing, and I felt like I was about to explode."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "Those are classic warning signs. Let's try to identify the trigger: Was it being blamed, or something else?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "It was being blamed unfairly. It reminded me of similar situations at home."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "It's important to recognize these triggers. What thoughts went through your mind in that moment?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "I thought, 'Why does this always happen to me? Nobody cares about me.'"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "Those thoughts can fuel anger. Let's reframe them. What's a more balanced thought?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "Maybe, 'This is a mistake, but I can talk to my coworker and fix it calmly.'"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "That's great. Let's practice a quick mindfulness exercise. Take a deep breath with me. Inhale for four counts, hold for four, exhale for four."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "Okay, I feel a bit calmer."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "Good. What healthy coping skills have you used in the past?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "Sometimes I go for a walk or listen to music."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "Those are great strategies. Let's set a goal: Next time you feel angry, use deep breathing for 60 seconds before reacting. How does that sound?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "That sounds doable."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "Let's also try assertive communication. Use 'I' statements, like 'I feel upset when I'm blamed for something I didn't do.' Can you practice that?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "I feel upset when I'm blamed for something I didn't do."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "Perfect. We'll check in next session on your progress. Is there anything else you'd like to discuss?"
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "client",
+    "text": "No, that was helpful. Thanks."
+  },
+  {
+    "conversation_id": "anger1",
+    "speaker": "therapist",
+    "text": "You're welcome. Remember, change takes time. Keep journaling your triggers and successes."
+  }
+]

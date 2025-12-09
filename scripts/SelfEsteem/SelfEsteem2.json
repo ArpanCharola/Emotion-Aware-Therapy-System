@@ -1,0 +1,167 @@
+[
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "Hello, welcome back. It's good to see you. How did the week feel for you, after our first conversation?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Hi. It was... interesting. A bit up and down. I did try that observation task you mentioned, writing down the critical thoughts. I was surprised how often they popped up."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "You did the task? That's excellent work. Would you be comfortable sharing what you noticed? Remember, we're just observing, no judgment."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Well, one big one was at work. I sent an email to my team with a project update, and I made a small typo. Someone replied-all just to point it out. My immediate thought was, 'See, you're so careless. Now everyone thinks you're incompetent.' I felt a hot wave of shame and spent the rest of the afternoon distracted."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "Thank you for sharing that. It's a very clear example. Let's use this to build on what we talked about last time—the connection between thoughts, feelings, and behaviors. The thought was 'I'm careless, people think I'm incompetent.' The feeling was shame. And the behavior was being distracted all afternoon. Does that map feel accurate?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Yes, exactly. It ruined my whole afternoon's productivity."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "It makes complete sense that it would, given the power of that thought. Today, I'd like to introduce a tool called a 'Thought Record.' It's a structured way to not just notice these thoughts, but to begin gently questioning them. We take that initial, automatic thought and examine it like a detective looking at evidence."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Question it? But the thought feels like a fact in the moment."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "That's the key insight—it *feels* like a fact, but it's actually an interpretation. Our minds are meaning-making machines, but sometimes they make unhelpful or inaccurate meanings. Let's try it with the email. The automatic thought is: 'Because I made a typo, everyone now thinks I'm incompetent.' What is the evidence that supports this thought?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Well, the evidence is that someone took the time to reply-all and correct me. So they must have noticed and thought it was a big deal."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "Okay, noted. Now, what is the evidence *against* this thought? Or, is there a more balanced or compassionate way to see the situation?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Hmm. I guess... the person who corrected me is known for being overly detail-oriented, and they do this to everyone. Other people probably just read the correction and moved on. My boss has given me positive feedback on this project before."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "That's really significant. So, the action (a reply-all correction) might be more about *their* habits than a global judgment on *your* competence. What might be an alternative, more balanced thought?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Maybe... 'I made a minor mistake, which is human. One colleague pointed it out, but it doesn't erase my overall good work on the project.'"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "How does that thought feel when you say it, compared to the original?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "It feels... calmer. Less catastrophic. The original thought felt like the end of the world. This one is just a thing that happened."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "Notice the difference in the feeling—from shame to something calmer. That's the power of cognitive restructuring. Now, let's bring in the self-compassion piece we touched on. If a friend told you this story about their typo, what would you say to them?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "I'd probably say, 'Don't worry about it! Everyone makes typos. That guy is always doing that. It's not a reflection of your work.'"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "And how would you say that to your friend? What would your tone be?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Kind. Reassuring. Maybe even a little dismissive of the mistake, because it's so small."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "What if you could direct even 10% of that kindness and reassurance inward? The goal isn't to make excuses, but to respond to your own stumble with the same basic kindness you'd offer anyone else. This is the practical skill of self-compassion."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "That feels hard. The critical voice is automatic. The kind one feels forced."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "Absolutely, it's a practice. We're building a new mental muscle. It might start as an intellectual exercise—'What *would* I say to a friend?'—before it becomes a felt sense. Let's link it to mindfulness. When you felt that 'hot wave of shame,' where did you feel it in your body?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "My chest got tight, and my face felt hot."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "So, for next time, the sequence could be: 1) Notice the body sensation (tight chest). 2) Oh, that's my critical thought showing up. 3) Identify the thought ('I'm incompetent'). 4) Do a quick detective check—evidence for/against? 5) Try on a kinder, more balanced statement. This combines CBT and mindfulness."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "That's a lot of steps. What if I can't do all that in the moment?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "That's a great and very important question. You don't have to do it all in the moment! Often, the best we can do is notice the feeling and promise ourselves, 'I'll come back to this later.' Then, maybe at the end of the day, you take out your notebook and do the Thought Record on paper. The skill is in the review, not in perfect in-the-moment execution."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Okay, that feels more manageable. I can try to review one difficult moment a day like this."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "That's a perfect, realistic goal. So, for this week, the practice could be: continue noticing, and pick one situation to examine with the Thought Record framework—looking for evidence, an alternative thought, and a compassionate response. How does that sound?"
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "It sounds good. Structured. Like I'm actually learning a toolkit, not just talking about my problems."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "That's exactly what it is—a toolkit for your mind. You're building self-awareness, then learning to edit the internal script with more accuracy and compassion. The confidence comes from knowing you have these tools when the old patterns show up. You're doing really good work."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "client",
+    "text": "Thank you. I actually feel a bit hopeful. The email thing last week felt like a failure, but now looking at it this way... it's just data for practice."
+  },
+  {
+    "conversation_id": "selfesteem2",
+    "speaker": "therapist",
+    "text": "'Data for practice'—I love that. That's a fantastic, balanced thought in itself. I'll see you next week, and we can see what data you've collected and how the practice is going."
+  }
+]

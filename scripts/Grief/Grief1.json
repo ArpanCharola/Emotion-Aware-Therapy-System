@@ -1,0 +1,107 @@
+[
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "Hello Alex, please come in and make yourself comfortable. I'm Dr. Lee. Thank you for sharing your time with me today. This first session is really about me getting to know you and understanding what brings you here, in your own words and at your own pace. There's no right or wrong thing to say. How are you feeling, walking in here today?"
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "Honestly? A little nervous, and also... relieved, I think. Just saying I was coming to grief therapy felt like a big step. I wasn't sure if it was 'time' or if I should just be handling this on my own by now."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "It is a significant step, and I acknowledge your courage in taking it. That thought—'should I be handling this on my own by now?'—is very common. Can you tell me a bit about the loss that brought you here?"
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "It's my husband, Jordan. He passed away six months ago after a long battle with cancer. We were together for twelve years."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "I'm so sorry for your loss, Alex. Twelve years is a significant chapter of a life. Would you be willing to share a little about Jordan, or about the person you were with him?"
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "He was... the calm to my storm. I'm more of a planner, a bit anxious. He was easygoing, always found the humor in things. He was an architect. He loved to build things, to create spaces that felt like home. And now our home just feels... empty and quiet. Too quiet."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "Thank you for sharing that. 'The calm to your storm'—that speaks to a deep partnership. And that silence in a space that was once full of his presence can be one of the hardest things to bear. What is your day-to-day experience like with your grief right now?"
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "It's a rollercoaster, but mostly it's just heavy. I have trouble sleeping. My mind just races at night. I go over everything—the treatments, the decisions, wondering if we missed something, if I should have advocated harder... Then I'm exhausted the next day. Friends try to help, but they suggest going out or 'keeping busy,' and it just feels like a chore."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "It sounds incredibly draining—the sleeplessness, the mental replay, and then the added layer of feeling out of sync with what others think might help. That replay, those thoughts about 'what if,' often carry a lot of pain. What do those thoughts feel like for you?"
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "It feels like guilt. A heavy, awful guilt. Like I failed him in some final way. Logically, I know the cancer was aggressive, but my heart keeps saying, 'You could have done more.'"
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "That disconnect between the logical knowing and the heart's feeling is a core part of grief, especially with a loss involving caregiving. The love you had for him, the desire to protect him, is now expressing itself as this guilt. It's a testament to your care, even though it's so painful to carry."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "(Nods, quiet for a moment) No one has really put it that way. They just say 'don't feel guilty,' which makes me feel worse."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "Our feelings need acknowledgment, not dismissal. In here, we have space for all of it—the sadness, the guilt, the love, the quiet. As we work together, we can gently examine thoughts like 'I failed him,' not to blame, but to understand their weight and see if there are other perspectives your exhausted mind might be overlooking."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "I'd like that. I'm so tired of carrying this weight."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "My role is to help you with that burden. You don't have to carry it alone in this room. I'm hearing a few things that we might gently explore as we move forward: the sleeplessness and mental exhaustion, the weight of guilt, and the struggle with this new, quiet identity in your home and the world. How does that align with what you were hoping for?"
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "Yes, that's it exactly. I just want to feel like I can breathe again. Not forget Jordan, but... maybe learn how to remember him without it tearing me apart every time."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "That is a beautiful and entirely possible goal for therapy: to move from grief that tears you apart, towards grief that honors and holds love, while also allowing you to breathe. We might use different tools—talking, sometimes exploring stories or even creative outlets—to help you build a sustainable relationship with your memory of him and with your own life now."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "That sounds... hopeful. More than I've felt in a while."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "I'm glad to hear that spark of hope. It's important. Our time is drawing to a close for today. For this first step, I simply want to acknowledge how thoughtfully and openly you've shared with me. For next time, would you be willing to do a small, observational task? Not a chore, but perhaps just notice one moment in the week—even a difficult one—and what it brings up for you. We can use it as a starting point."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "client",
+    "text": "Yes, I can try that. Just notice. Thank you, Dr. Lee. This didn't feel as scary as I thought."
+  },
+  {
+    "conversation_id": "grief1",
+    "speaker": "therapist",
+    "text": "You are most welcome, Alex. You did the hard part. I'll see you next week, and we'll continue this work together. Take good care until then."
+  }
+]

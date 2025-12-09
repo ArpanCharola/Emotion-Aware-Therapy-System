@@ -1,0 +1,117 @@
+[
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "Welcome to our final scheduled session. How does it feel to be here today, knowing it's our last meeting for now?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "Honestly, it's bittersweet. I feel a lot more confident than when I first walked in, but it's also a little scary to think about doing this without our regular check-ins."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "That's a completely normal and healthy feeling. It speaks to the work we've done together. Today is about reviewing your toolkit, solidifying your confidence, and making a plan for your continued growth. Let's start by looking back. What would you say is the single most significant change for you since we began?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "The shift from feeling helpless to having a plan. Before, the freeze was this inevitable thing that just happened *to* me. Now, when I feel it start, I have a sequence: notice the thought, use my balanced statement, take a breath, and use a buffer phrase if I need to. It's not magic, but it gives me a sense of agency."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "That is the core of sustainable change: agency. You've moved from being a passenger to being the driver, even if the road is sometimes bumpy. You've integrated techniques from SLP for the mechanics and CBT for the mindset. Let's concretely list your personal toolkit as it stands today."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "Okay. For the physical part: the mindful breath for throat tension, the articulation drills, and strategic pausing when I speak. For the mental part: the 'Catch, Challenge, Calm' method for those critical thoughts. And for conversations: the buffer phrase and using writing or texting to prepare for hard talks."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "Perfect. That's a comprehensive, personalized system. Now, let's talk about maintenance. Which one or two of these tools feel most essential as daily or weekly practices to keep your skills sharp, even when you're not in crisis?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "The mindful breath and the 'Catch, Challenge' part. If I keep those up, the rest seems to follow. The articulation drill feels good for my clarity, so I'd like to keep that up a few times a week too."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "That's an excellent and realistic maintenance plan. Now, let's discuss setbacks. There will be times when you freeze, or a conversation doesn't go well. How can you frame those moments so they don't feel like failure?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "I think I can see them as data now, not failure. Like you said in our second session. I can ask myself: What triggered it? Did I use any part of my toolkit, even just noticing? What could I try differently next time?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "That is exactly the resilient, learning-oriented mindset that will sustain you. You're not aiming for perfection; you're aiming for understanding and continuous adjustment. Speaking of the future, what is one communication scenario you're now looking forward to, that you would have dreaded before?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "The family gathering that's coming up. I'm actually looking forward to seeing my cousin. We always used to get into debates where I'd clam up. I think I can try to use my pauses and maybe even suggest we take turns talking more formally. It feels like an experiment now, not a trial."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "From 'looming disaster' to an 'experiment.' That is transformative. It also shows you're thinking about mutually respectful communication structures, which is advanced relational work. I want to emphasize that ending therapy doesn't mean you're 'done.' You're graduating to being your own primary practitioner. My door is always open for periodic check-ins or booster sessions if a new, big challenge arises."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "That's good to know. It feels less like an ending that way."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "It's a transition. Before we wrap up, let's do one final, consolidated practice. Let's role-play the start of that family gathering. You see your cousin. They say, 'Hey, heard you changed jobs recently—bet that was stressful!' Go through your full sequence in real-time."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "(Nods, takes a preparatory breath) Okay. (Role-playing) \"Hi! Yeah, it was a big change... (strategic pause) but it was a good move for me. There were stressful parts, for sure... (notices a hint of pressure, uses buffer) give me a sec, I'm still processing it all.\""
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "(As cousin) \"No problem, take your time.\" (As therapist) And in that second, what are you doing?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "I'm catching the old thought ('they think you're incoherent'), challenging it ('I'm just organizing my thoughts, that's normal'), taking a calm breath, and choosing my next point: 'I'm really excited about the team I'm on now.'"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "Flawless execution. You seamlessly wove the physical, cognitive, and relational strands together. That is mastery in action. You have the toolkit internalized. As we conclude, I want to acknowledge the courage and consistency you've brought to this process. How do you feel leaving here today?"
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "Proud. And grateful. I walked in here feeling broken. I'm walking out feeling equipped. Thank you."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "You were never broken. You were stuck, and you did the work to get unstuck. That is a tremendous strength. Remember your toolkit, be compassionate with yourself, and keep practicing. You have everything you need. Best of luck, and don't hesitate to reach out."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "client",
+    "text": "I will. Thank you for everything."
+  },
+  {
+    "conversation_id": "communication5",
+    "speaker": "therapist",
+    "text": "You're very welcome. Goodbye."
+  }
+]

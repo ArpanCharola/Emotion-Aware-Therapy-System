@@ -1,0 +1,107 @@
+[
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "Hello, please come in and make yourself comfortable. I'm really glad you're here today. To start, could you share a little about what's been bringing you to therapy at this time?"
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "Thanks. I... I guess I just never feel good enough. At work, in my relationships, just as a person. I'm my own worst critic, and it's exhausting. I feel like I'm holding myself back from everything."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "That sounds incredibly heavy to carry around every day. Thank you for sharing that. It's very common for self-esteem to affect many areas of life. What you describe about being your own worst critic is often at the heart of it. Today, my goal is to start understanding your experience and begin building a map of how your thoughts are working."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "A map of my thoughts?"
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "In a way, yes. The approach we'll use, often called Cognitive Behavioral Therapy or CBT, is based on the idea that our thoughts, feelings, and behaviors are all connected. So, a critical thought like 'I'm not good enough' leads to a feeling, maybe sadness or anxiety, which then influences what we do, like avoiding a new opportunity. Does that resonate?"
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "Definitely. I didn't apply for a promotion last month because I was sure they'd laugh at my application. I felt so anxious just thinking about it, so I didn't do it."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "That's a perfect, if painful, example. Thank you. It shows the cycle so clearly. A part of our work will be to gently challenge those unhelpful beliefs, like 'they'll laugh at me.' But before we challenge them, we just need to notice them. Almost like a scientist observing data, without judgment. This is where mindfulness can be really helpful."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "I've tried to just think positive, but it doesn't stick. The negative voice is louder."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "That's a crucial insight. Forcing 'positive thinking' over a deeply held negative belief often doesn't work. It can feel like lying to yourself. Instead, we work on building a more balanced, accurate, and compassionate view. Which leads me to ask: How do you typically respond to yourself when you make a mistake or have that 'not good enough' feeling?"
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "I beat myself up about it. I'll replay it for days, thinking about all the things I should have done differently. I'd never talk to a friend the way I talk to myself."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "That last sentence is profoundly important. 'I'd never talk to a friend the way I talk to myself.' That discrepancy is where we can cultivate self-compassion. Building that skill is just as important as changing thoughts. It's about changing the relationship you have with yourself."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "That feels really foreign, to be honest. But also... necessary."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "It can feel foreign at first, like learning a new language. We'll go step by step. Alongside this, we'll also work on practical skills—like breaking down goals into manageable steps. Lasting confidence often comes from seeing yourself handle challenges, not just from thinking differently."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "That makes sense. So it's not just about... stopping the bad thoughts?"
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "Exactly. It's a three-part process: 1) Noticing and untangling the unhelpful thought patterns, 2) Developing a kinder, more supportive inner voice, and 3) Building real-world evidence of your competence through practical actions. They all support each other. Based on what we've talked about, how does this direction for our work feel to you?"
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "It feels... structured. Hopeful. I like that it's not just 'be positive.' It feels more real."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "I'm glad to hear that. For this week, would you be willing to try a simple observation task? It's not about changing anything yet. Just, when you notice that wave of 'I'm not good enough' or that critical voice, see if you can jot down the situation and the exact thought. Just as an experiment in awareness."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "Yeah, I can try that. Just write it down? What if it happens a lot?"
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "Even one or two observations will give us valuable information. There's no 'wrong' amount. The goal is simply to start seeing the pattern from the outside. You've already done such important work today by naming these experiences and coming here."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "client",
+    "text": "Thank you. I feel a bit... lighter, just talking about it like this. Less alone with it."
+  },
+  {
+    "conversation_id": "selfesteem1",
+    "speaker": "therapist",
+    "text": "That's wonderful to hear. You don't have to carry it alone. We'll continue this work together. I'll see you next week, and we'll look at what you've observed and start building from there."
+  }
+]

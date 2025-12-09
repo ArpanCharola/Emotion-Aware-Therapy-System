@@ -1,0 +1,127 @@
+[
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "Hello again. Welcome back. How did the past week go with your communication buffer phrase and the articulation practice?"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "Hi. It was a mixed week. The articulation practice was fine—I did it most days. The buffer phrase... I tried to bring it up with my partner, but I froze. Again. The exact thing I wanted to talk about preventing, happened when I tried to talk *about* it."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "First, thank you for your honesty. That is not a failure; it's incredibly valuable data. It tells us the anticipation of a 'big talk' is itself a trigger. This is very common. So let's adjust our approach. Instead of a formal 'we need to talk,' we can use a written or text-based alternative communication method to start the conversation."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "Like, send a text about it? That feels easier, honestly."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "Yes. AAC—Augmentative and Alternative Communication—isn't just for non-verbal individuals. It's for anyone who needs a bridge. A text could say, 'Hey, I'm learning a tool in therapy for when I freeze up. Can I share it with you when we have a quiet moment?' It sets the stage without the in-the-moment pressure."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "That feels like a workaround, but a helpful one. I just want to be able to say things out loud."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "It is a workaround, and that's its strength. Think of it as scaffolding while we build the permanent structure. Using it reduces the anxiety, which in turn makes it more likely you *can* have the verbal conversation later. The goal is effective connection, not suffering through speech. Shall we craft a sample message together?"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "Yes, please."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "Alright. Let's keep it low-pressure, collaborative, and positive. Something like: 'I wanted to share something from my therapy that could help us communicate better. I'm practicing asking for a brief pause if I get overwhelmed in conversation, so I can collect my thoughts. It would mean a lot if you'd be open to trying that with me. No rush, we can talk whenever you're free.' How does that land?"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "That's good. It doesn't sound like I'm blaming them or myself. It's just a tool we can try."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "Exactly. Framing it as a collaborative 'us' tool is key. Now, let's shift to practicing the buffer itself in a low-stakes way. Since the in-the-moment freeze is the target, let's try a role-play. I'll be your partner, we're discussing what to make for dinner, and I'll gently disagree with your suggestion. Your only job is to notice the first hint of tension and use your phrase: 'Give me a moment to collect my thoughts.' Ready?"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "Okay. I'm ready."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "Great. (Shifts tone to conversational) \"I was thinking we could order pizza tonight. It's been a long week.\""
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "(Pauses, takes a slight breath) \"Actually, I was hoping we could use the groceries we have... it's healthier. And we spent a lot last week on takeout.\""
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "(Gently) \"I hear you, but I'm really tired. Cooking just feels like a lot of effort right now.\""
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "(Client hesitates, shifts in seat) \"...Give me a moment to collect my thoughts.\""
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "(Immediately softens tone, as therapist) Excellent. You did it perfectly. Now, in the role-play, as your partner, I would simply say, 'Okay, take your time.' In that moment of pause you created, what would you do next?"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "I'd try to take that breath, like we practiced. And then maybe say, 'I hear you're tired. I am too. What if we make something simple from the fridge, like sandwiches, so we save money but also don't have to cook?'"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "That is a textbook example of effective communication! You acknowledged my feeling, stated your own, and offered a compromise. The buffer phrase gave you the space to move from a reactive freeze to a responsive solution. How did it feel to use it in the role-play?"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "It felt... powerful. Like I pressed a pause button on the anxiety instead of on myself. The sentence came out easier after."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "That's a brilliant way to describe it—pausing the anxiety, not yourself. That's the core of this skill. Now, for this week, your practice is three-fold: First, send that text if it still feels right. Second, practice the buffer phrase in your mind three times a day—just rehearse saying it. And third, during your articulation drill, add one simple sentence, spoken slowly and clearly, like 'I am practicing clear speech.' To bridge the drill to real speech."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "I can do that. The role-play made it feel more real."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "Good. We're moving from theory to practice. Remember, the goal isn't perfection. It's building a new habit one brick at a time. You're already showing great insight and courage. Any questions before we end today?"
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "client",
+    "text": "No questions. Just... I'm starting to believe this might actually work."
+  },
+  {
+    "conversation_id": "communication3",
+    "speaker": "therapist",
+    "text": "That belief is the most important tool of all. I'll see you next week, and we can talk about how it went putting these pieces into your daily life."
+  }
+]

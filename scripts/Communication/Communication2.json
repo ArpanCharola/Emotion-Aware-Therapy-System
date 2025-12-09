@@ -1,0 +1,127 @@
+[
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Welcome back. It's good to see you. How did the week go, especially with the mindfulness practice we discussed?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "Hi. It was... interesting. I tried the throat awareness exercise a few times. It was hardest to remember to do it when I was actually getting stressed, but I did it once right before a work call and I think it helped a little."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "That's a significant step applying it in a real situation. Using it *before* a stressful event is a perfect strategy. You mentioned noting a situation where communication felt harder or easier. Did anything stand out?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "Yes. Easier was that work call I mentioned. Harder was... last night. My partner and I were discussing weekend plans, and it turned into a small debate. I felt the old familiar freeze starting. My mind went blank for a second."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Thank you for bringing that example. It's incredibly valuable. First, let's acknowledge that you noticed the 'freeze' happening. That awareness is the foundation of change. Last time we just observed the sensation. Today, let's build on that with a concrete tool for when you feel that block in conversation."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "Okay, I could really use that."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Great. This is called a 'communication buffer.' When you feel your throat tighten or your mind blank, instead of pushing through or shutting down, you use a pre-agreed phrase to create a pause. Something like, 'Give me a moment to collect my thoughts,' or 'I want to answer that carefully, can we pause for a second?' Would you feel comfortable proposing a phrase like that to your partner?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "I think so. It sounds better than just going silent. They usually just wait, but they look worried, which makes me feel more pressure."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Exactly. This tool manages both your internal state and the relational dynamic. It replaces the ambiguous, worrying silence with a clear, collaborative signal. Now, during that pause, you would use a mini-version of our mindfulness: one deep breath, direct your attention to the tension, and let it be. Then, try to express just the core feeling or need. Instead of a full argument, start with 'I feel flustered,' or 'My need is to be sure we consider both options.'"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "That feels less overwhelming. To just say one small true thing."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Precisely. We're building a bridge over the block, one small plank at a time. Now, let's also touch on the speech clarity goal. Have you noticed any pattern to when people ask you to repeat yourself? Is it specific sounds, or when you're talking faster?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "Usually when I'm talking faster, or at the end of a long sentence. My voice gets... quieter and mushier, I guess."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "That's a very common pattern. Speed and reduced volume can impact clarity. A simple SLP technique we can start is 'over-articulation' practice. Not in conversation, but as a daily drill. Exaggerating your mouth movements on certain sounds to build muscle memory and awareness. For example, saying 'P-T-K' with strong, crisp bursts of air. This isn't for use in real talk, but the control you gain will generalize."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "So practice by myself to help when I'm with others?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Exactly. It's like a musician doing scales. We strengthen the mechanical skill in a low-pressure setting so it's more reliable under pressure. Would you like to try a quick demonstration of the 'P-T-K' exercise now?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "Sure."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Great. Sit comfortably. Take a breath. Now, say 'Puh'—feel the pop of air on your lips. 'Tuh'—feel your tongue tip on the ridge behind your teeth. 'Kuh'—feel the back of your tongue engage. Don't worry about volume, focus on the crispness of the start. Let's do five slow repetitions: Puh-Tuh-Kuh."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "Puh... Tuh... Kuh. Puh. Tuh. Kuh. Puh-Tuh-Kuh. Puh. Tuh. Kuh. Puh-Tuh-Kuh."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "Excellent. How did that feel?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "A little silly, but I could definitely feel the difference. My mouth is moving more than it usually does."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "That's the point. That awareness of movement is what we want to cultivate. For homework, I'd suggest: first, choose your 'communication buffer' phrase and, if possible, tell your partner about it. Second, do this articulation drill for one minute each day. And third, continue the mindfulness, maybe linking it to the drill—do mindfulness, then the sounds. How does that plan feel?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "It feels manageable. The phrase is the most daunting part, but also the most useful, I think."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "You've pinpointed it perfectly. It's daunting because it's new and vulnerable, and useful for the same reasons. You're building a new communication habit. We can role-play asking for that pause next time if you like. You're doing the hard and important work. Any final thoughts before we wrap up?"
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "client",
+    "text": "No, just... thank you. Last week I felt hopeful. This week I feel like I have a few tools. That's a good feeling."
+  },
+  {
+    "conversation_id": "communication2",
+    "speaker": "therapist",
+    "text": "I'm so glad to hear that. Having tools changes the experience from helplessness to agency. I'll see you next week, and we'll continue building from here."
+  }
+]

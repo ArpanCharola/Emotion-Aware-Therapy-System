@@ -1,0 +1,167 @@
+[
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Hi Alex, welcome back. It's good to see you. How have you been since our last session?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Hi. It's been… a mixed week. Some days felt okay, others were pretty rough. But I did try that grounding exercise a few times."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "I'd love to hear about that. What was it like trying the 5-4-3-2-1 technique? Were there moments it was helpful, or times it felt difficult to use?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "I used it three times. Once, I was getting anxious before a team check-in at work. I did it in the bathroom and it helped me calm down enough to go in. The other two times… I kind of rushed through it and my mind kept jumping back to the worries."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Thank you for being so honest. That's actually incredibly valuable feedback. First, it's fantastic that you used it successfully before a meeting—that's a real win. Second, when it felt rushed or didn't 'stick,' that tells us something about the intensity of the anxiety in those moments. Can you recall what the worry was about when it felt harder to stay grounded?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Yeah, it was when I was lying in bed at night. The thought was, 'What if I get passed over for the promotion I'm hoping for?' That one felt really heavy, like a fact, not just a thought."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "That's a perfect example of where we can take the next step. When a thought feels like an undeniable fact, that's often a distorted thinking pattern at work—in this case, maybe 'catastrophizing' or 'fortune-telling.' Would you be willing to look at that specific thought with me using a CBT tool called cognitive restructuring?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Yes, please. I need a way to deal with those heavy thoughts."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Great. Let's do a simple thought record. First, we name the situation. You said, 'Lying in bed at night, thinking about the promotion.' What was the automatic thought? You already shared it: 'What if I get passed over?' What was the emotion and how intense was it, from 0 to 100?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "The emotion was anxiety… dread, really. Probably an 85."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Okay. Now, the key step is to examine the evidence. Let's put that thought on trial. What is the evidence that supports the thought 'I will be passed over'?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Well… my manager hasn't mentioned it lately. And a new person joined the team who is really sharp."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Alright. Now, what is the evidence against that thought? What facts suggest you might *not* be passed over?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Hmm. I've gotten positive feedback on my last two projects. I've been here longer and know the systems. And… my manager did say 'keep up the good work' in my last review."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "That's excellent. See how you just balanced the perspective? Now, based on this evidence, what is a more balanced or realistic thought you could have?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "I guess… 'There is a possibility I might not get the promotion, but there is also evidence that I am a strong candidate. Worrying about it all night won't change the outcome.'"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "That is a profoundly different thought. How does it feel when you say that, compared to the original? What's the emotion and intensity now?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "It feels… less certain of disaster. Still a bit anxious, but more like a 40 instead of an 85. It's manageable."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "That's a significant shift. This is cognitive restructuring in action. It's not about positive thinking, but accurate thinking. How did you manage sleep and caffeine this week, in relation to these nighttime worries?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "I was more mindful. I switched to decaf after 2 PM, which I think helped a little. Sleep is still hit or miss, especially on the bad worry nights."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "That's a great lifestyle adjustment. For sleep, we can add a tool. On nights when thoughts are racing, after you've done your thought record, you could try a brief body scan meditation or progressive muscle relaxation to help your body release the physical tension of anxiety. Would you like to try a very short version now?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Sure, that could be useful."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Great. Get as comfortable as you can. Close your eyes if you'd like. Take three slow breaths… Now, gently bring your attention to your feet. Notice any tension there and, on an exhale, just let it go… Let them feel heavy and relaxed… Now shift your attention to your calves and knees, releasing any tightness…"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "(Client breathes slowly, shoulders visibly dropping slightly)"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Good. Now to your thighs and pelvis… releasing… Now your stomach and chest… letting them be soft… Finally, your shoulders, neck, and face… just letting all the holding go. Take one more deep breath in and out."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Wow, that's… I can feel the difference. My jaw was really tight and I didn't even notice."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "The body often holds anxiety for us. So, for this week, our plan can build on last week. Would you be open to combining the skills? Your goal could be: 'If I'm lying awake with a worrying thought, I will first write down a balanced thought using the evidence technique, then practice a 2-minute body scan before trying to sleep again.'"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Yes, that feels like a logical next step. A two-part tool for the tough nights."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "Exactly. We're building your toolkit. Remember, the goal isn't to never feel anxious, but to have strategies that prevent it from taking over. How does this plan feel to you?"
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "It feels empowering. Last week I got a grounding tool. This week I have a way to tackle the thoughts themselves and a way to relax my body. It's like I'm getting an instruction manual for my own brain."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "That's a beautiful way to put it, Alex. You are the author of that manual. We're just finding the best chapters together. You did excellent work today—applying the grounding, being open to examining tough thoughts, and trying a new relaxation technique. Keep the focus on practice, not perfection."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "client",
+    "text": "Thank you. Practice, not perfection. I'll remember that. I feel more equipped to handle this week."
+  },
+  {
+    "conversation_id": "anxiety2",
+    "speaker": "therapist",
+    "text": "I'm glad. I'll see you next week, and we can see how the thought records and body scans went. Be kind to yourself."
+  }
+]
